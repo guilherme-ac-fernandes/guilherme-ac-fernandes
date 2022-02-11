@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/pin/?guilherm-ac-fernandes=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
@@ -33,3 +33,8 @@ I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also 
     />
   </a>
 </p>
+
+
+
+
+
