@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-ac-fernandes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github.com/guilherme-ac-fernandes"
+      src="https://github-readme-stats.vercel.app/api?username=guilherme-ac-fernandes&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
 </p>
