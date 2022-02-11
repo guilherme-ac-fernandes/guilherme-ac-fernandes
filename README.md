@@ -23,14 +23,3 @@ I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also 
 </a>
 
 
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=guilherme-ac-fernandes&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
-
