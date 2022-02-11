@@ -6,7 +6,6 @@
 ### About me
 I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
 
-### Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,6 +17,10 @@ I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also 
   </a>
 </p>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ac-fernandes&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
