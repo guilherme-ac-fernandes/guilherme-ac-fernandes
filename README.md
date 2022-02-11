@@ -28,10 +28,9 @@ I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also 
 <!--  <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" /> -->
 <!-- <img align="center" alt="cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" /> -->
 
+<br />
 
 ### 📊 Github Stats
-
-<br />
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
