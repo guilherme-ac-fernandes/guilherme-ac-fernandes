@@ -6,7 +6,7 @@
 
 
 ### About me
-I'm a {student} of Web developer at [beTrybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
+I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
 
 <br />
 
