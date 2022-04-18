@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fernandes-3945b710b/)
 
 
-### About me
+### About me 
 I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
 
 <br />
