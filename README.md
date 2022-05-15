@@ -18,6 +18,7 @@ I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Ch
 <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/>
 <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
 <img align="center" alt="react" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
+<img align="center" alt="react" src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="40px"/>
 
 <br />
 
