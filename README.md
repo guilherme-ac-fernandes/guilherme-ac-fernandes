@@ -19,8 +19,8 @@ I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Ch
 <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
 <img align="center" alt="redux" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png" width="40px"/>
 <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
-
-
+<img align="center" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40px"/>
+<img align="center" alt="mysql" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="40px"/>
 
 <br />
 
