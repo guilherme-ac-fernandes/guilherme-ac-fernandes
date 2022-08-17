@@ -3,7 +3,7 @@
 I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
 
 
-[<img align="left" alt="=LinkedIn" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://github.com/guilherme-ac-fernandes)
+[<img align="left" alt="=LinkedIn" height="23px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://github.com/guilherme-ac-fernandes)
 
 [<img align="left" alt="Gmail" height="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" />](mailto:gfengquimica@hotmail.com)
 
