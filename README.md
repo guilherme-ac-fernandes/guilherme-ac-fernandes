@@ -25,6 +25,7 @@ I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Ch
 #### Back-End
 <img align="center" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40px"/> <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
 <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
+<img align="center" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px" />
 
 <!--  <img align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40px" />
   <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
