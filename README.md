@@ -19,7 +19,7 @@ I'm a {student} of Web developer at [Trybe](https://www.betrybe.com) and also Ch
 <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
 <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/>
 <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-<img align="center" alt="redux" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png" width="40px"/>
+<img align="center" alt="redux" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width="40px"/>
 <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
 
 #### Back-End
