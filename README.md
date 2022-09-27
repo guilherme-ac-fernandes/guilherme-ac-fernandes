@@ -1,18 +1,23 @@
 <h1 align="center">Hi, I'm Guilherme 👋</h1>
 
-* 🌱 I'm a Fullstack Web Developer, [Trybe](https://www.betrybe.com) student and also Chemical and Quality Engineer.
+<div>
+  
+  <img align="right" alt="api" src="https://cdn-icons-png.flaticon.com/512/2210/2210213.png" width="200px"/>
+  
+  <ul align="left">
+    <li>🌱 I'm a Fullstack Web Developer and also Chemical and Quality Engineer.</li>
+    <li>📝 I'm in love with back-end and I’m currently learning Node.js and Typescript.</li>
+    <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take some cool pictures.</li>
+    <li>You can also reach me at <a href="mailto:gfengquimica@gmail.com" target="_blank">gfengquimica@gmail.com</a> or add me on <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">LinkedIn</a>.
+  </ul>
+  
+</div>
 
-* 📝 I'm in love with back-end and I’m currently learning Node.js and Typescript.
-
-* ⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take some cool pictures.
-
-* You can reach me at [Mail](mailto:gfengquimica@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/guilherme-ac-fernandes/)
 
 <br>
 <br>
 
 <h2 align="center">Technologies and Tools 💻</h2>
-
 <table align="center">
   <tr>
     <th>Linguagens & Ferramentas</th>
