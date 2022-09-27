@@ -24,7 +24,7 @@
     <th>Front-End</th> 
     <th>Back-End</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td display="flex">
       <img align="center" alt="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"/>
       <img align="center" alt="macos" src="https://img.icons8.com/color/480/mac-os-logo.png" width="40px"/>
@@ -34,7 +34,7 @@
       <!-- <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" /> -->
       <img align="center" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40px"/>
     </td>
-    <td display="flex">
+    <td align="center">
       <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
       <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
       <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
@@ -42,7 +42,7 @@
       <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/>
       <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
     </td> 
-    <td display="flex">
+    <td align="center">
       <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
       <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
       <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
