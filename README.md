@@ -1,20 +1,27 @@
-# Oi, eu sou o Guilherme 👋
+# Hi, I'm Guilherme 👋
 
-Oi, eu sou o Artur! Eu sou Desenvolvedor Web Fullstack
-
-* I'm a Fullstack Web Developer from [Trybe](https://www.betrybe.com) and also Chemical and Quality Engineer.
+* I'm a Fullstack Web Developer, [Trybe](https://www.betrybe.com) student and also Chemical and Quality Engineer.
 
 * I'm in love with back-end and I’m currently learning Node.js and Typescript.
 
-* Fun fact about me: I'm a nintendo lover, compulsive reader and trying to take some cool pictures
-
-* Contact me at
+* Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take some cool pictures.
 
 <div align="center">
-[<img align="left" alt="=LinkedIn" height="23px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/guilherme-ac-fernandes/)
+  <h2 align="center">Contact me at</h2>
+  <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">
+    <img align="left" alt="=LinkedIn" height="23px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
+  <a href="mailto:gfengquimica@gmail.com" target="_blank">
+    <img align="left" alt="Gmail" height="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" />
+  </a> 
 
-[<img align="left" alt="Gmail" height="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" />](mailto:gfengquimica@gmail.com)
-</div>
+  
+</div> 
+
+
+
+[]()
+
 
 
 
@@ -55,6 +62,10 @@ Oi, eu sou o Artur! Eu sou Desenvolvedor Web Fullstack
     />
   </a>
 </p>
+
+
+
+
 
 
 
