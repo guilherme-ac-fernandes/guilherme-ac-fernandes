@@ -26,7 +26,7 @@
 <h2 align="center">Technologies and Tools 💻</h2>
 <table align="center">
   <tr>
-    <th>Linguagens & Ferramentas</th>
+    <th>Languages & Tools</th>
     <th>Front-End</th> 
     <th>Back-End</th>
   </tr>
