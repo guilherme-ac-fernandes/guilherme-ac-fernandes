@@ -71,4 +71,4 @@
 
 
 
-<img align='right' src="https://komarev.com/ghpvc/?username=guilherme-ac-fernandes&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="guilherme-ac-fernandes visits" />
+<!-- <img align='right' src="https://komarev.com/ghpvc/?username=guilherme-ac-fernandes&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="guilherme-ac-fernandes visits" /> -->
