@@ -9,7 +9,7 @@
     <br>
     <li>📝 I'm in love with back-end and I’m currently learning Node.js and Typescript.</li>
     <br>
-    <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take some cool pictures.</li>
+    <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take cool pictures.</li>
     <br>
     <li>
       You can also reach me at 
@@ -75,6 +75,28 @@
   </a>
 </p>
 
+<br>
 
+<details>
+  <summary><strong>PT-BR 🇧🇷</strong></summary><br />
+  
+  <h3 align="center">Oi, eu sou o Guilherme 👋</h3>
+
+  <ul>
+    <li>🌱 Eu sou Desenvolvedor Web Fullstack e também Engenheiro Químico e da Qualidade.</li>
+    <br>
+    <li>📝 Estou apaixonado por back-end e estou aprendendo Node.js e Typescript.</li>
+    <br>
+    <li>⭐️ Fato divertido sobre mim: sou Nintendista, leitor compulsivo (quando tenho tempo) e também estou sempre tentando tirar fotos legais.</li>
+    <br>
+    <li>
+      Você pode entrar em contato comigo pelo
+      <a href="mailto:gfengquimica@gmail.com" target="_blank">gfengquimica@gmail.com</a> 
+      ou me adicionar no 
+      <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">
+      LinkedIn</a>.
+  </ul>
+
+</details>
 
 <!-- <img align='right' src="https://komarev.com/ghpvc/?username=guilherme-ac-fernandes&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="guilherme-ac-fernandes visits" /> -->
