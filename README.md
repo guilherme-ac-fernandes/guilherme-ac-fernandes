@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Guilherme 👋</h1>
 
 <br>
-
 <div>
   <img align="right" alt="api" src="https://cdn-icons-png.flaticon.com/512/2210/2210213.png" width="200px"/>
   <ul align="left">
@@ -39,6 +38,7 @@
       LinkedIn</a>.
   </ul>
 </details>
+<br>
 
 <h2 align="center">Technologies and Tools 💻</h2>
 <table align="center">
