@@ -39,7 +39,6 @@
       LinkedIn</a>.
   </ul>
 </details>
-<br>
 
 <h2 align="center">Technologies and Tools 💻</h2>
 <table align="center">
