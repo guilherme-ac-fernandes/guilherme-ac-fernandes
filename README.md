@@ -6,7 +6,7 @@
   <ul align="left">
     <li>🌱 I'm a Fullstack Web Developer and also Chemical and Quality Engineer.</li>
     <br>
-    <li>📝 I'm in love with back-end and I’m currently learning Node.js and Typescript.</li>
+    <li>📝 I'm in love with back-end and I’m currently learning Node.js, Typescript and MongoDB.</li>
     <br>
     <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take cool pictures.</li>
     <br>
@@ -26,7 +26,7 @@
   <ul>
     <li>🌱 Eu sou Desenvolvedor Web Fullstack e também Engenheiro Químico e da Qualidade.</li>
     <br>
-    <li>📝 Estou apaixonado por back-end e estou aprendendo Node.js e Typescript.</li>
+    <li>📝 Estou apaixonado por back-end e estou aprendendo Node.js, Typescript e MongoDB.</li>
     <br>
     <li>⭐️ Fato divertido sobre mim: sou Nintendista, leitor compulsivo (quando tenho tempo) e também estou sempre tentando tirar fotos legais.</li>
     <br>
@@ -68,7 +68,7 @@
     <td align="center">
       <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
       <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-    <!--  <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/> -->
+    <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
       <img align="center" alt="express" src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" width="40px"/>
       <img align="center" alt="mocha" src="https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png" width="40px"/>
       <img align="center" alt="chai" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="40px"/>
