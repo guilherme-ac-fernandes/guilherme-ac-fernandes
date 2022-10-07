@@ -4,7 +4,7 @@
 <div>
   <img align="right" alt="api" src="https://cdn-icons-png.flaticon.com/512/2210/2210213.png" width="200px"/>
   <ul align="left">
-    <li>🌱 I'm a Fullstack Developer and also Chemical and Quality Engineer.</li>
+    <li>🌱 I'm a Full Stack Developer and also Chemical and Quality Engineer.</li>
     <br>
     <li>❤️ I'm in love with back-end and I’m currently learning Node.js, Typescript and MongoDB.</li>
     <br>
@@ -24,7 +24,7 @@
   <summary><strong>PT-BR 🇧🇷</strong></summary><br />
   <h3 align="center">Oi, eu sou o Guilherme 👋</h3>
   <ul>
-    <li>🌱 Eu sou Desenvolvedor Fullstack e também Engenheiro Químico e da Qualidade.</li>
+    <li>🌱 Eu sou Desenvolvedor Full Stack e também Engenheiro Químico e da Qualidade.</li>
     <br>
     <li>❤️ Estou apaixonado por back-end e estou aprendendo Node.js, Typescript e MongoDB.</li>
     <br>
