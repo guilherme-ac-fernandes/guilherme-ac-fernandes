@@ -6,7 +6,7 @@
   <ul align="left">
     <li>🌱 I'm a Full Stack Developer and also Chemical and Quality Engineer.</li>
     <br>
-    <li>❤️ I'm in love with back-end and I’m currently learning Node.js, Typescript and MongoDB.</li>
+    <li>❤️ I'm in love with back-end and I’m currently learning Node.js, Typescript, MongoDB and Python.</li>
     <br>
     <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take cool pictures.</li>
     <br>
@@ -26,7 +26,7 @@
   <ul>
     <li>🌱 Eu sou Desenvolvedor Full Stack e também Engenheiro Químico e da Qualidade.</li>
     <br>
-    <li>❤️ Estou apaixonado por back-end e estou aprendendo Node.js, Typescript e MongoDB.</li>
+    <li>❤️ Estou apaixonado por back-end e estou aprendendo Node.js, Typescript, MongoDB e Python.</li>
     <br>
     <li>⭐️ Fato divertido sobre mim: sou Nintendista, leitor compulsivo (quando tenho tempo) e também estou sempre tentando tirar fotos legais.</li>
     <br>
@@ -54,7 +54,7 @@
       <img align="center" alt="vscode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40px"/>
       <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
       <img align="center" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px" />
-      <!-- <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" /> -->
+      <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
       <img align="center" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40px"/>
     </td>
     <td align="center">
