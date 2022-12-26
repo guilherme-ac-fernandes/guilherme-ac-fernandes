@@ -2,7 +2,7 @@
 
 <br>
 <div>
-  <img align="right" alt="api" src="https://cdn-icons-png.flaticon.com/512/2210/2210213.png" width="200px"/>
+  <img align="right" alt="api" src="images/api.png" width="200px"/>
   <ul align="left">
     <li>🌱 I'm a Full Stack Developer and also Chemical and Quality Engineer.</li>
     <br>
@@ -49,30 +49,30 @@
   </tr>
   <tr align="center">
     <td display="flex">
-      <img align="center" alt="git" src="./images/git.png" width="40px"/>
-      <img align="center" alt="macos" src="./images/mac.png" width="40px"/>
-      <img align="center" alt="vscode" src="./images/vscode.png" width="40px"/>
-      <img align="center" alt="javascript" src="./images/javascript.png" width="40px"/>
-      <img align="center" alt="typescript" src="./images/typescript.png" width="40px" />
-      <img align="center" alt="python" src="./images/python.png" width="40px" />
-      <img align="center" alt="docker" src="./images/docker.png" width="40px"/>
+      <img align="center" alt="git" src="images/tools/git.png" width="40px"/>
+      <img align="center" alt="macos" src="images/tools/mac.png" width="40px"/>
+      <img align="center" alt="vscode" src="images/tools/vscode.png" width="40px"/>
+      <img align="center" alt="javascript" src="images/tools/javascript.svg" width="40px"/>
+      <img align="center" alt="typescript" src="images/tools/typescript.svg" width="40px" />
+      <img align="center" alt="python" src="images/tools/python.png" width="40px" />
+      <img align="center" alt="docker" src="images/tools/docker.png" width="40px"/>
     </td>
     <td align="center">
-      <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-      <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-      <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-      <img align="center" alt="redux" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width="40px"/>
-      <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/>
-      <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
+      <img align="center" alt="html5" src="images/tools/html.svg" width="40px"/>
+      <img align="center" alt="css3" src="images/tools/css.svg" width="40px"/>
+      <img align="center" alt="react" src="images/tools/react.svg" width="40px"/>
+      <img align="center" alt="redux" src="images/tools/redux.png" width="40px"/>
+      <img align="center" alt="jest" src="images/tools/jest.svg" width="40px"/>
+      <img align="center" alt="rtl" src="images/tools/rtl.png" width="40px"/>
     </td> 
     <td align="center">
-      <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-      <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-    <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
-      <img align="center" alt="express" src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" width="40px"/>
-      <img align="center" alt="mocha" src="https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png" width="40px"/>
-      <img align="center" alt="chai" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="40px"/>
-      <img align="center" alt="sinon" src="https://sinonjs.org/assets/images/logo.png" width="40px"/>
+      <img align="center" alt="nodejs" src="images/tools/nodejs.svg" width="40px"/>
+      <img align="center" alt="mysql" src="images/tools/mysql.svg" width="40px"/>
+      <img align="center" alt="mongodb" src="images/tools/mongodb.svg" width="40px"/>
+      <img align="center" alt="express" src="images/tools/express.svg" width="40px"/>
+      <img align="center" alt="mocha" src="images/tools/mocha.png" width="40px"/>
+      <img align="center" alt="chai" src="images/tools/chai.png" width="40px"/>
+      <img align="center" alt="sinon" src="images/tools/sinon.png" width="40px"/>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/harrypotter-fullstack">Code</a>
       </p>
       <p align="center">React, Node.js and MySQL</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/harrypotter-fullstack/blob/main/harrypotter-fullstack.png" alt="HP FullStack Demo"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="images/projects/harrypotter.png" alt="HP FullStack Demo"/>
     </td>
     <td valign="top">
       <h3 align="center">Trivia</h3>
@@ -99,7 +99,7 @@
         <a href="https://trivia-pink.vercel.app/">Link</a>
       </p>
       <p align="center">React, Redux and CSS</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/trivia/blob/main/trivia.png" alt="Trivia Demo"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="images/projects/trivia.png" alt="Trivia Demo"/>
     </td>
     <td valign="top">
       <h3 align="center">Blogs API</h3>
@@ -107,9 +107,8 @@
         <a href="https://github.com/guilherme-ac-fernandes/blogs-api">Code</a>
       </p>
       <p align="center">Node.js, Sequelize and MySQL</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/anatomy-of-a-blog-post-deconstructed-open-graph.jpg" alt="Blogs Representation"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="images/projects/blog.png" alt="Blogs Representation"/>
     </td>
-    
   </tr>
   <tr>
     <td valign="top">
@@ -118,7 +117,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/trybe-futebol-clube">Code</a>
       </p>
       <p align="center">Node.js, Typescript and MySQL</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/trybe-futebol-clube/blob/main/tfc_classificacao.png" alt="TFC Demo"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="images/projects/tfc.png" alt="TFC Demo"/>
     </td>
     <td valign="top">
       <h3 align="center">Job Insights</h3>
@@ -126,7 +125,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/job-insights">Code</a>
       </p>
       <p align="center">Python and Flask</p>
-      <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/job-insights/blob/main/.images/job_index.png" alt="Job Insights Demo"/>
+      <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="images/projects/job.png" alt="Job Insights Demo"/>
     </td>
     <td valign="top">
       <h3 align="center">Star Wars Planet Search</h3>
@@ -136,9 +135,8 @@
         <a href="https://starwars-planets-search-alpha.vercel.app/">Link</a>
       </p>
       <p align="center">React, Hooks and CSS</p>
-      <img width="300px" src="https://github.com/guilherme-ac-fernandes/starwars-planets-search/blob/main/starwars-planets-search.png" alt="Star Wars Demo"/>
+      <img width="300px" src="images/projects/starwars-planets-search.png" alt="Star Wars Demo"/>
     </td>
-    
   </tr>
   <tr>
     <td valign="top">
@@ -147,7 +145,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/store-manager">Code</a>
       </p>
       <p align="center">Node.js, MySQL and Tests</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2017_26/2053956/170627-better-grocery-store-main-se-539p.jpg" alt="Store Representation"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="images/projects/store.png" alt="Store Representation"/>
     </td>
     <td valign="top">
       <h3 align="center">eSport</h3>
@@ -155,7 +153,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite">Code</a>
       </p>
       <p align="center">React, Node.js and React-Native</p>
-      <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/web-01.png" alt="eSport Demo"/>
+      <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="images/projects/esports.png" alt="eSport Demo"/>
     </td>
     <td valign="top">
       <h3 align="center">Car Shop</h3>
@@ -163,18 +161,16 @@
         <a href="https://github.com/guilherme-ac-fernandes/car-shop">Code</a>
       </p>
       <p align="center">Node.js, Typescript and MongoDB</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="https://thumbs.dreamstime.com/b/auto-car-service-repair-center-garage-cars-landscape-exterior-building-station-vector-illustration-151849543.jpg" alt="Car Shop Representation"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="images/projects/car-shop.png" alt="Car Shop Representation"/>
     </td>
     
   </tr>
 </table>
 
-
-
 <br>
 <br>
 
-<h2 align="center">Github Stats 📊</h2> 
+<h2 align="center">Github Stats 📊</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
