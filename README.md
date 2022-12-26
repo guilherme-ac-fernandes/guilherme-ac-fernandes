@@ -49,13 +49,13 @@
   </tr>
   <tr align="center">
     <td display="flex">
-      <img align="center" alt="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"/>
-      <img align="center" alt="macos" src="https://img.icons8.com/color/480/mac-os-logo.png" width="40px"/>
-      <img align="center" alt="vscode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40px"/>
-      <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-      <img align="center" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px" />
-      <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-      <img align="center" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40px"/>
+      <img align="center" alt="git" src="./images/git.png" width="40px"/>
+      <img align="center" alt="macos" src="./images/git.png" width="40px"/>
+      <img align="center" alt="vscode" src="./images/git.png" width="40px"/>
+      <img align="center" alt="javascript" src="./images/git.png" width="40px"/>
+      <img align="center" alt="typescript" src="./images/git.png" width="40px" />
+      <img align="center" alt="python" src="./images/git.png" width="40px" />
+      <img align="center" alt="docker" src="./images/git.png" width="40px"/>
     </td>
     <td align="center">
       <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
