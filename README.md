@@ -107,7 +107,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/blogs-api">Code</a>
       </p>
       <p align="center">Node.js, Sequelize and MySQL</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="" alt="Blogs Representation"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/anatomy-of-a-blog-post-deconstructed-open-graph.jpg" alt="Blogs Representation"/>
     </td>
     
   </tr>
@@ -147,7 +147,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/store-manager">Code</a>
       </p>
       <p align="center">Node.js, MySQL and Tests</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="" alt="Store Representation"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2017_26/2053956/170627-better-grocery-store-main-se-539p.jpg" alt="Store Representation"/>
     </td>
     <td valign="top">
       <h3 align="center">eSport</h3>
@@ -163,7 +163,7 @@
         <a href="https://github.com/guilherme-ac-fernandes/car-shop">Code</a>
       </p>
       <p align="center">Node.js, Typescript and MongoDB</p>
-      <img width="300px" style="width: 300px; height: 122px;" src="" alt="Car Shop Representation"/>
+      <img width="300px" style="width: 300px; height: 122px;" src="https://thumbs.dreamstime.com/b/auto-car-service-repair-center-garage-cars-landscape-exterior-building-station-vector-illustration-151849543.jpg" alt="Car Shop Representation"/>
     </td>
     
   </tr>
