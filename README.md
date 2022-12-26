@@ -81,7 +81,7 @@
 <br>
 
 <h2 align="center">Projects 👨🏻‍💻</h2>
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <h3 align="center">Harry Potter - FullStack</h3>
@@ -101,6 +101,9 @@
       <p align="center">React, Redux and CSS</p>
       <img width="300px" style="width: 300px; height: 122px;" src="images/projects/trivia.png" alt="Trivia Demo"/>
     </td>
+    
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="center">Blogs API</h3>
       <p align="center">
@@ -109,8 +112,6 @@
       <p align="center">Node.js, Sequelize and MySQL</p>
       <img width="300px" style="width: 300px; height: 122px;" src="images/projects/blog.png" alt="Blogs Representation"/>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="center">Trybe Football Club</h3>
       <p align="center">
@@ -119,6 +120,9 @@
       <p align="center">Node.js, Typescript and MySQL</p>
       <img width="300px" style="width: 300px; height: 122px;" src="images/projects/tfc.png" alt="TFC Demo"/>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">Job Insights</h3>
       <p align="center">
@@ -155,6 +159,8 @@
       <p align="center">React, Node.js and React-Native</p>
       <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="images/projects/esports.png" alt="eSport Demo"/>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="center">Car Shop</h3>
       <p align="center">
@@ -163,7 +169,14 @@
       <p align="center">Node.js, Typescript and MongoDB</p>
       <img width="300px" style="width: 300px; height: 122px;" src="images/projects/car-shop.png" alt="Car Shop Representation"/>
     </td>
-    
+    <td valign="top">
+      <h3 align="center">Delivery App</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/delivery-app">Code</a>
+      </p>
+      <p align="center">React, Node.js and MySQL</p>
+      <img width="300px" src="images/projects/delivery-app.png" alt="Delivery App Demo"/>
+    </td>
   </tr>
 </table>
 
