@@ -80,6 +80,100 @@
 <br>
 <br>
 
+<h2 align="center">Projects 👨🏻‍💻</h2>
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="center">Harry Potter - FullStack</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/harrypotter-fullstack">Code</a>
+      </p>
+      <p align="center">React, Node.js and MySQL</p>
+      <img width="300px" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/harrypotter-fullstack/blob/main/harrypotter-fullstack.png" alt="HP FullStack Demo"/>
+    </td>
+    <td valign="top">
+      <h3 align="center">Trivia</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/trivia">Code</a>
+        <span> - </span>
+        <a href="https://trivia-pink.vercel.app/">Link</a>
+      </p>
+      <p align="center">React, Redux and CSS</p>
+      <img width="300px" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/trivia/blob/main/trivia.png" alt="Trivia Demo"/>
+    </td>
+    <td valign="top">
+      <h3 align="center">Blogs API</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/blogs-api">Code</a>
+      </p>
+      <p align="center">Node.js, Sequelize and MySQL</p>
+      <img width="300px" style="width: 300px; height: 122px;" src="" alt="Blogs Representation"/>
+    </td>
+    
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="center">Trybe Football Club</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/trybe-futebol-clube">Code</a>
+      </p>
+      <p align="center">Node.js, Typescript and MySQL</p>
+      <img width="300px" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/trybe-futebol-clube/blob/main/tfc_classificacao.png" alt="TFC Demo"/>
+    </td>
+    <td valign="top">
+      <h3 align="center">Job Insights</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/job-insights">Code</a>
+      </p>
+      <p align="center">Python and Flask</p>
+      <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/job-insights/blob/main/.images/job_index.png" alt="Job Insights Demo"/>
+    </td>
+    <td valign="top">
+      <h3 align="center">Star Wars Planet Search</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/starwars-planets-search">Code</a>
+        <span> - </span>
+        <a href="https://starwars-planets-search-alpha.vercel.app/">Link</a>
+      </p>
+      <p align="center">React, Hooks and CSS</p>
+      <img width="300px" src="https://github.com/guilherme-ac-fernandes/starwars-planets-search/blob/main/starwars-planets-search.png" alt="Star Wars Demo"/>
+    </td>
+    
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="center">Store Manager</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/store-manager">Code</a>
+      </p>
+      <p align="center">Node.js, MySQL and Tests</p>
+      <img width="300px" style="width: 300px; height: 122px;" src="" alt="Store Representation"/>
+    </td>
+    <td valign="top">
+      <h3 align="center">eSport</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite">Code</a>
+      </p>
+      <p align="center">React, Node.js and React-Native</p>
+      <img width="300px" style="width: 300px; height: 122px;" style="width: 300px; height: 122px;" src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/web-01.png" alt="eSport Demo"/>
+    </td>
+    <td valign="top">
+      <h3 align="center">Car Shop</h3>
+      <p align="center">
+        <a href="https://github.com/guilherme-ac-fernandes/car-shop">Code</a>
+      </p>
+      <p align="center">Node.js, Typescript and MongoDB</p>
+      <img width="300px" style="width: 300px; height: 122px;" src="" alt="Car Shop Representation"/>
+    </td>
+    
+  </tr>
+</table>
+
+
+
+<br>
+<br>
+
 <h2 align="center">Github Stats 📊</h2> 
 
 <p align="center">
