@@ -50,12 +50,12 @@
   <tr align="center">
     <td display="flex">
       <img align="center" alt="git" src="./images/git.png" width="40px"/>
-      <img align="center" alt="macos" src="./images/git.png" width="40px"/>
-      <img align="center" alt="vscode" src="./images/git.png" width="40px"/>
-      <img align="center" alt="javascript" src="./images/git.png" width="40px"/>
-      <img align="center" alt="typescript" src="./images/git.png" width="40px" />
-      <img align="center" alt="python" src="./images/git.png" width="40px" />
-      <img align="center" alt="docker" src="./images/git.png" width="40px"/>
+      <img align="center" alt="macos" src="./images/mac.png" width="40px"/>
+      <img align="center" alt="vscode" src="./images/vscode.png" width="40px"/>
+      <img align="center" alt="javascript" src="./images/javascript.png" width="40px"/>
+      <img align="center" alt="typescript" src="./images/typescript.png" width="40px" />
+      <img align="center" alt="python" src="./images/python.png" width="40px" />
+      <img align="center" alt="docker" src="./images/docker.png" width="40px"/>
     </td>
     <td align="center">
       <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
