@@ -11,6 +11,12 @@
     <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take cool pictures.</li>
     <br>
     <li>
+      👨🏻‍💻 Visit my
+      <a href="https://guilherme-ac-fernandes.vercel.app" target="_blank">
+      amazing portfolio</a>.
+      </li>
+    <br>
+    <li>
       ✉️ You can also reach me at 
       <a href="mailto:gfengquimica@gmail.com" target="_blank">gfengquimica@gmail.com</a> 
       or add me on 
@@ -29,6 +35,12 @@
     <li>❤️ Estou apaixonado por back-end e estou aprendendo Node.js, Typescript, MongoDB e Python.</li>
     <br>
     <li>⭐️ Fato divertido sobre mim: sou Nintendista, leitor compulsivo (quando tenho tempo) e também estou sempre tentando tirar fotos legais.</li>
+    <br>
+    <li>
+      👨🏻‍💻 Visite meu
+      <a href="https://guilherme-ac-fernandes.vercel.app" target="_blank">
+      portfólio incrível</a>.
+      </li>
     <br>
     <li>
       ✉️ Você pode entrar em contato comigo pelo
@@ -80,7 +92,7 @@
 <br>
 <br>
 
-<h2 align="center">Projects 👨🏻‍💻</h2>
+<!-- <h2 align="center">Projects 👨🏻‍💻</h2>
 <table align="center">
   <tr>
     <td valign="top">
@@ -178,7 +190,7 @@
       <img width="300px" src="images/projects/delivery-app.png" alt="Delivery App Demo"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 <br>
