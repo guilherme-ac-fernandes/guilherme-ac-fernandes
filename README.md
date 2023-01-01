@@ -11,7 +11,7 @@
     <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take cool pictures.</li>
     <br>
     <li>
-      ✉️ You can also reach me at 
+      ✉️ You can reach me at 
       <a href="mailto:gfengquimica@gmail.com" target="_blank">gfengquimica@gmail.com</a> 
       or add me on 
       <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">LinkedIn</a>.
