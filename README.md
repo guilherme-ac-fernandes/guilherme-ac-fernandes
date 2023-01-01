@@ -11,17 +11,16 @@
     <li>⭐️ Fun fact about me: I'm a nintendo lover, compulsive reader (when I have time) and also I'm always trying to take cool pictures.</li>
     <br>
     <li>
-      👨🏻‍💻 Visit my
-      <a href="https://guilherme-ac-fernandes.vercel.app" target="_blank">
-      amazing portfolio</a>.
-      </li>
-    <br>
-    <li>
       ✉️ You can also reach me at 
       <a href="mailto:gfengquimica@gmail.com" target="_blank">gfengquimica@gmail.com</a> 
       or add me on 
-      <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">
-      LinkedIn</a>.
+      <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">LinkedIn</a>.
+    </li>
+    <br>
+    <li>
+      👨🏻‍💻 Visit my
+      <a href="https://guilherme-ac-fernandes.vercel.app" target="_blank">amazing portfolio</a>.
+     </li>
   </ul>
 </div>
 
@@ -37,17 +36,17 @@
     <li>⭐️ Fato divertido sobre mim: sou Nintendista, leitor compulsivo (quando tenho tempo) e também estou sempre tentando tirar fotos legais.</li>
     <br>
     <li>
-      👨🏻‍💻 Visite meu
-      <a href="https://guilherme-ac-fernandes.vercel.app" target="_blank">
-      portfólio incrível</a>.
-      </li>
-    <br>
-    <li>
       ✉️ Você pode entrar em contato comigo pelo
       <a href="mailto:gfengquimica@gmail.com" target="_blank">gfengquimica@gmail.com</a> 
       ou me adicionar no 
-      <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">
-      LinkedIn</a>.
+      <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">LinkedIn</a>.
+     </li>
+     <br>
+     <li>
+      👨🏻‍💻 Visite meu
+      <a href="https://guilherme-ac-fernandes.vercel.app" target="_blank">
+      portfólio incrível</a>.
+     </li>
   </ul>
 </details>
 <br>
@@ -193,7 +192,7 @@
 </table> -->
 
 <br>
-<br>
+<!-- <br> -->
 
 <h2 align="center">Github Stats 📊</h2>
 
