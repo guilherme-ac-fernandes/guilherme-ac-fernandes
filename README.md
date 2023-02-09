@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Guilherme 👋</h1>
-![](https://komarev.com/ghpvc/?username=guilherme-ac-fernandes)
 
 <br>
 <div>
