@@ -60,30 +60,30 @@
   </tr>
   <tr align="center">
     <td display="flex">
-      <img align="center" alt="git" src="images/tools/git.png" width="40px"/>
-      <img align="center" alt="macos" src="images/tools/mac.png" width="40px"/>
-      <img align="center" alt="vscode" src="images/tools/vscode.png" width="40px"/>
-      <img align="center" alt="javascript" src="images/tools/javascript.svg" width="40px"/>
-      <img align="center" alt="typescript" src="images/tools/typescript.svg" width="40px" />
-      <img align="center" alt="python" src="images/tools/python.png" width="40px" />
-      <img align="center" alt="docker" src="images/tools/docker.png" width="40px"/>
+      <a href="https://git-scm.com"><img align="center" alt="git" src="images/tools/git.png" width="40px"/></a>
+      <a href="https://www.apple.com/br/macos/"><img align="center" alt="macos" src="images/tools/mac.png" width="40px"/></a>
+      <a href="https://code.visualstudio.com"><img align="center" alt="vscode" src="images/tools/vscode.png" width="40px"/></a>
+      <a href="https://www.javascript.com"><img align="center" alt="javascript" src="images/tools/javascript.svg" width="40px"/></a>
+      <a href="https://www.typescriptlang.org"><img align="center" alt="typescript" src="images/tools/typescript.svg" width="40px" /></a>
+      <a href="https://www.python.org"><img align="center" alt="python" src="images/tools/python.png" width="40px" /></a>
+      <a href="https://www.docker.com"><img align="center" alt="docker" src="images/tools/docker.png" width="40px"/></a>
     </td>
     <td align="center">
-      <img align="center" alt="html5" src="images/tools/html.svg" width="40px"/>
-      <img align="center" alt="css3" src="images/tools/css.svg" width="40px"/>
-      <img align="center" alt="react" src="images/tools/react.svg" width="40px"/>
-      <img align="center" alt="redux" src="images/tools/redux.png" width="40px"/>
-      <img align="center" alt="jest" src="images/tools/jest.svg" width="40px"/>
-      <img align="center" alt="rtl" src="images/tools/rtl.png" width="40px"/>
+      <a href="https://www.w3schools.com/html/"><img align="center" alt="html5" src="images/tools/html.svg" width="40px"/></a>
+      <a href="https://www.w3schools.com/css/"><img align="center" alt="css3" src="images/tools/css.svg" width="40px"/></a>
+      <a href="https://reactjs.org"><img align="center" alt="react" src="images/tools/react.svg" width="40px"/></a>
+      <a href="https://redux.js.org"><img align="center" alt="redux" src="images/tools/redux.png" width="40px"/></a>
+      <a href="https://jestjs.io"><img align="center" alt="jest" src="images/tools/jest.svg" width="40px"/></a>
+      <a href="https://testing-library.com/docs/react-testing-library/intro/"><img align="center" alt="rtl" src="images/tools/rtl.png" width="40px"/></a>
     </td> 
     <td align="center">
-      <img align="center" alt="nodejs" src="images/tools/nodejs.svg" width="40px"/>
-      <img align="center" alt="mysql" src="images/tools/mysql.svg" width="40px"/>
-      <img align="center" alt="mongodb" src="images/tools/mongodb.svg" width="40px"/>
-      <img align="center" alt="express" src="images/tools/express.svg" width="40px"/>
-      <img align="center" alt="mocha" src="images/tools/mocha.png" width="40px"/>
-      <img align="center" alt="chai" src="images/tools/chai.png" width="40px"/>
-      <img align="center" alt="sinon" src="images/tools/sinon.png" width="40px"/>
+      <a href="https://nodejs.org/en/"><img align="center" alt="nodejs" src="images/tools/nodejs.svg" width="40px"/></a>
+      <a href="https://www.mysql.com"><img align="center" alt="mysql" src="images/tools/mysql.svg" width="40px"/></a>
+      <a href="https://www.mongodb.com"><img align="center" alt="mongodb" src="images/tools/mongodb.svg" width="40px"/></a>
+      <a href="https://expressjs.com"><img align="center" alt="express" src="images/tools/express.svg" width="40px"/></a>
+      <a href="https://mochajs.org"><img align="center" alt="mocha" src="images/tools/mocha.png" width="40px"/></a>
+      <a href="https://www.chaijs.com"><img align="center" alt="chai" src="images/tools/chai.png" width="40px"/></a>
+      <a href="https://sinonjs.org"><img align="center" alt="sinon" src="images/tools/sinon.png" width="40px"/></a>
     </td>
   </tr>
 </table>
