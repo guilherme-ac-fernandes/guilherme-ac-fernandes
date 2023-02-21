@@ -206,6 +206,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ac-fernandes&layout=compact&theme=radical"
+    />
+  </a>
+</p>
+
+
 <br>
 
 <!-- <img align='right' src="https://komarev.com/ghpvc/?username=guilherme-ac-fernandes&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="guilherme-ac-fernandes visits" /> -->
